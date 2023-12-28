@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-98fc1c60","path":"/DataAnalysis/","title":"数据分析","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"数据分析","description":"页面的描述"},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"DataAnalysis/index.md"}');export{t as data};
