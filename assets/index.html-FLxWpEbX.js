@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-51a13d9b","path":"/ProductDesign/","title":"产品设计","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"产品设计","description":"页面的描述"},"headers":[],"git":{"updatedTime":1703743816000,"contributors":[{"name":"0x1uke7","email":"Ox1uke7@outlook.com","commits":1}]},"filePathRelative":"ProductDesign/index.md"}');export{t as data};
